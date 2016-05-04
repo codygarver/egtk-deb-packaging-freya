@@ -1,3 +1,9 @@
+elementary-theme (4.0.6.2) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementary.io>  Wed, 04 May 2016 01:35:58 -0500
+
 elementary-theme (4.0.6.1) trusty; urgency=medium
 
   * New upstream release.
